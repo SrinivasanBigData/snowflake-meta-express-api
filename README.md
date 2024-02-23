@@ -1,6 +1,6 @@
 # snowflake-meta-express-api
 
-The `snowflake-meta-express-api` is likely a Node.js library designed to handle snowflake metadata operations within an Express.js API framework. this library for handling roles, databases, warehouses, schemas,tables and query Data in snowflake
+The `snowflake-meta-express-api` is likely a Node.js library designed to handle snowflake metadata operations within an Express.js API framework. This library facilitates seamless interaction with Snowflake roles, databases, warehouses, schemas, tables, and querying data in Snowflake.
 
 ## Installation
 
