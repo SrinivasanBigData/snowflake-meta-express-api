@@ -127,7 +127,7 @@ const fetchData = async (connection, customQuery) => {
           console.error("Error executing query: " + err.message);
           reject(err);
         } else {
-          resolve(rows);
+          resolve(data);
         }
       },
     });
