@@ -24,6 +24,13 @@ app.listen(3000, () => {
 });
 ```
 
+## Create/Update Environemt Variable(`.env`)
+
+```ruby
+CRYPTO_ALOGORITHM=aes-256-cbc
+CRYPTO_PASSWORD=<Password> # update password
+```
+
 ## Query Parameters:
 
 1. **page**: Page number (default: 1)
