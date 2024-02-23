@@ -11,8 +11,8 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use("/snowflake", validateAndDecryptPayload, snowflakeRoutes);
 app.use("/crypto", cryptoRoutes);
-//module.exports = app;
+module.exports = app;
 
-app.listen(3000, () => {
-  console.log("Server is running on port 3000");
-});
+// app.listen(3000, () => {
+//   console.log("Server is running on port 3000");
+// });

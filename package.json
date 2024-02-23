@@ -1,14 +1,21 @@
 {
   "name": "snowflake-meta-express-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "snowflake-meta",
+    "express"
+  ],
+  "author": "Srinivasan",
   "license": "ISC",
-  "description": "",
+  "description": "The snowflake-meta-express-api is likely a Node.js library designed to handle metadata operations within an Express.js API framework.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SrinivasanBigData/snowflake-meta-express-api.git"
+  },
   "dependencies": {
     "body-parser": "^1.20.2",
     "dotenv": "^16.4.5",
