@@ -7,7 +7,7 @@ The `snowflake-meta-express-api` is likely a Node.js library designed to handle 
 You can install `snowflake-meta-express-api` via npm:
 
 ```sh
-npm install my-express-library
+npm install snowflake-meta-express-api
 ```
 
 ## Usage
