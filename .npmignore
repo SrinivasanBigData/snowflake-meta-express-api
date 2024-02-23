@@ -1,0 +1,4 @@
+config.js
+test/
+.git/
+node_modules/
